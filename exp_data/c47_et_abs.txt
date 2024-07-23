@@ -1,0 +1,25 @@
+science-softCon UV/Vis Spectra Data Base, www.uv-spectra.de
+
+Source: Humboldt-University Berlin, Prof. N. Ernsting
+
+Absorption Spectrum
+
+Substance: Coumarin 47, Coumarin 460, Coumarin 1
+
+Solvent: Ethanol 
+
+Data:	table	Wavelength increment: 1 nm	# of data points: 251
+
+Wavelength Range: 200.0 nm - 450.0 nm
+
+Max. Extinction Coefficient: 2.540E+04 l/mol/cm
+
+Reference for Extinction Coefficient: Kodak
+
+Temperature:
+
+Temperature dependence:
+
+Comments:
+
+Sample information: 2 nm 1 cm Shimadzu UV160

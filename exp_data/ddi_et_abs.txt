@@ -1,0 +1,25 @@
+science-softCon UV/Vis Spectra Data Base, www.uv-spectra.de
+
+Source: Humboldt-University Berlin, Prof. N. Ernsting
+
+Absorption Spectrum
+
+Substance: DDI; 1,1-Diethyl-2,2-dicarbocyanine Iodide, C27H27N2I
+
+Solvent: Ethanol 
+
+Data:	table	Wavelength increment: 1 nm	# of data points: 612
+
+Wavelength Range: 200.0 nm - 811.0 nm
+
+Max. Extinction Coefficient: 2.300E+05 l/mol/cm
+
+Reference for Extinction Coefficient: Brackmann
+
+Temperature:
+
+Temperature dependence:
+
+Comments:
+
+Sample information: 2 nm 1 cm Shimadzu UV160
